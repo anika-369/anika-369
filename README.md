@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+Passionate Golang backend developer building clean, fast, and scalable APIs.  
+Strong in backend fundamentals, Git, and solving real-world problems efficiently.  
+Enjoy writing high-quality code and contributing to innovative projects.  
+Excited to collaborate with global remote teams and deliver impactful solutions.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anika.sultana.577) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultanaanika437@gmail.com) 
 
