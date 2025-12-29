@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-<!--
-**anika-369/anika-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m Currently Working On
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning advanced Golang, microservices & cloud integration.  
+- 👯 Looking to collaborate on backend projects, APIs & scalable systems.  
+- 🤔 Seeking guidance on high-performance distributed systems & best practices.  
+- 💬 Ask me about Golang, REST APIs, backend design & Git workflows.  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I love building small tools and coding projects that make life easier.
 ## About Me
 
 Passionate Golang backend developer building clean, fast, and scalable APIs.  
